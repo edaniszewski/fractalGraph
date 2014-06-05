@@ -9,13 +9,13 @@ This project requires `matlibplot` in order to create graphs (http://matplotlib.
 _apt-get_
 
 ```
-> sudo apt-get install python-matplotlib
+$ sudo apt-get install python-matplotlib
 ```
 
 _yum_
 
 ```
-su -c "yum-builddep python-matplotlib"
+$ su -c "yum-builddep python-matplotlib"
 ```
 
 
